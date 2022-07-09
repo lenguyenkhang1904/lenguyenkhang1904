@@ -1,4 +1,8 @@
   <h1 align="center">Hello 👋, my name is Nguyen Khang </h1>
+  
+ <p>
+  Hi guys, i have passion for coding. mathematics
+  </p>
 
 ## 🌐Socials
    
