@@ -1,4 +1,4 @@
-  <h1 align="center">Hello, my name is Nguyen Khang </h1>
+  <h1 align="center">Hello 👋, my name is Nguyen Khang </h1>
 
 ## 🌐Socials
    
@@ -7,13 +7,13 @@
 
 
 ![Spring](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)
-![java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
-![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)
-![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)
-![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
-![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg)
-![Centos](https://www.vectorlogo.zone/logos/centos/centos-ar21.svg)
-![linux](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg) 
-![tomcat9](https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg)
+![java](https://www.vectorlogo.zone/logos/java/java-vertical.svg)
+![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
+![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
+![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
+![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+![Centos](https://www.vectorlogo.zone/logos/centos/centos-icon.svg)
+![linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg) 
+![tomcat9](https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg)
 
 
