@@ -15,5 +15,6 @@
 ![Centos](https://www.vectorlogo.zone/logos/centos/centos-icon.svg)
 ![linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg) 
 ![tomcat9](https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg)
+![jwt](http://jwt.io/img/badge.svg)
 
 
