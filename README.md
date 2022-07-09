@@ -2,7 +2,7 @@
   
  ## <h3 align="left">Introducing </h3>
  <p>
-  I have passion for coding , mathematics,learning languages.If you have any question about problem which i mentioned so please do not hesitate to contact with me below.
+  I have passion for coding , mathematics,learning languages.If you have any question about problem which i mentioned .So please do not hesitate to contact with me below.
  </p>
 
 ##<h3 align="left">🌐Socials</h3> 
